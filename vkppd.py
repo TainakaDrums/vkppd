@@ -67,7 +67,7 @@ def get_urls(msgs):
 
 def mkdir(vk_user_name):
 
-    dirname=os.path.join(os.environ.get("USERPROFILE", os.environ.get("HOME")), "vk_pics", vk_user_name)
+    dirname=os.path.join(os.environ.get("USERPROFILE", os.environ.get("HOME")), "vkppd", vk_user_name)
     if not os.path.exists(dirname):
         os.makedirs(dirname)
 
