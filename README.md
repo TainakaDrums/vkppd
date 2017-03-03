@@ -1,5 +1,5 @@
 # vkppd
-VK Private Pictures Downloader - download all pictures from private dialogs
+VK Private Pictures Downloader - download all pictures from vk.com private dialogs
 
 1. Click [here](https://oauth.vk.com/authorize?client_id=5033073&redirect_uri=https://oauth.vk.com/blank.html&scope=offline,messages&response_type=token&v=5.62
 ).
