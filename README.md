@@ -8,5 +8,5 @@ VK Private Pictures Downloader - download all pictures from [vk.com](https://vk.
 4. Paste it to TOKEN variable
 
 
-#####On Windows all content downloaded to %USERPROFILE%\vkppd.
-#####On Linux or Mac all content downloaded to $HOME\vkppd.
+#####On Windows all content will download to %USERPROFILE%\vkppd.
+#####On Linux or Mac all content will download to $HOME\vkppd.
